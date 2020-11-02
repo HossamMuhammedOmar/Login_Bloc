@@ -1,4 +1,5 @@
-# login_bloc
+# login bloc
+login screen with BLOC Pattern `Business LOgic Component`
 
 A new Flutter project.
 
