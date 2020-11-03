@@ -19,3 +19,5 @@ class Bloc extends Validators {
     _passwordController.close();
   }
 }
+
+final bloc = Bloc();
